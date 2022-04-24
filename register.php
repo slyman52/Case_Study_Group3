@@ -1,5 +1,5 @@
-<!-- Name : Muhammad Amiruddin Bin Alias --!>
-<!-- Matric No : 2011349 --!>
+<!-- Name : Muhammad Amiruddin Bin Alias -->
+<!-- Matric No : 2011349 -->
 
 <?php
 // Include config file
